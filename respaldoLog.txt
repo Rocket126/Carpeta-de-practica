@@ -1,0 +1,55 @@
+commit 8b8fc48d67860ce635ddd1da1a6b617819121f6b
+Merge: 7da17fa 0b589c2
+Author: IniciandoElcambio <carlosgctec@mail.com>
+Date:   Fri Nov 4 01:27:34 2022 -0300
+
+    Merge branch 'main' of https://github.com/Rocket126/Carpeta-de-practica
+
+commit 7da17fa6076a5679a21aed13374900e8055ea6fd
+Author: IniciandoElcambio <carlosgctec@mail.com>
+Date:   Fri Nov 4 01:25:42 2022 -0300
+
+    Agregando archivo ind33x
+
+commit 0b589c23446521d8a2a6ef80d2e773a85fc52188
+Author: IniciandoElcambio <carlosgctec@mail.com>
+Date:   Fri Nov 4 00:01:39 2022 -0300
+
+    Nueva conexcion con carpeta existente local hacia el remoto
+
+commit 63ea05211db6273b3558b095f899d076740bbf2b
+Merge: 191cda7 0645ae5
+Author: IniciandoElcambio <carlosgctec@mail.com>
+Date:   Thu Nov 3 00:50:26 2022 -0300
+
+    Guardando cambios para los archivos css e index para la fusion
+
+commit 191cda75140a38c08c346f045eb461fb3056cce7
+Author: IniciandoElcambio <carlosgctec@mail.com>
+Date:   Thu Nov 3 00:39:25 2022 -0300
+
+    Agregando cambios a los archivos indexhtml y css desde main
+
+commit 0645ae507c51fce3e4a2f40bbc4b309c9a440f34
+Author: IniciandoElcambio <carlosgctec@mail.com>
+Date:   Thu Nov 3 00:17:39 2022 -0300
+
+    creando nueva rama indexhtml y agregando modificaciones a los archivos html y css
+
+commit e98f2f9ce0ae2346f76feac057ed174a71bdb654
+Author: IniciandoElcambio <carlosgctec@mail.com>
+Date:   Wed Nov 2 23:58:32 2022 -0300
+
+    Agregando index.html e index.css
+
+commit 1ee534df0186097244f05c2216a256610462ac27
+Author: IniciandoElcambio <carlosgctec@mail.com>
+Date:   Wed Nov 2 23:13:18 2022 -0300
+
+    Trackeando .gitignore
+
+commit 84330b9ae94e7cc30e00223471951ec7fc5d7aad
+Author: IniciandoElcambio <carlosgctec@mail.com>
+Date:   Wed Nov 2 23:01:38 2022 -0300
+
+    Primer Commit
